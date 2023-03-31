@@ -1,0 +1,11 @@
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\bin\Debug\ProyectoINA.exe.config
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\bin\Debug\ProyectoINA.exe
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\bin\Debug\ProyectoINA.pdb
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.csproj.AssemblyReference.cache
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.csproj.SuggestedBindingRedirects.cache
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.Form1.resources
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.Properties.Resources.resources
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.csproj.GenerateResource.cache
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.csproj.CoreCompileInputs.cache
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.exe
+C:\Users\computer\Source\Repos\ProyectoINA\ProyectoINA\obj\Debug\ProyectoINA.pdb
